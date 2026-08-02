@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'DMSans-Regular';
+  src: url('/dem/wp-content/plugins/embedpress/assets/css/fonts/DMSans-Regular.svg#DMSans-Regular') format('svg'),
+       url('/dem/wp-content/plugins/embedpress/assets/css/fonts/DMSans-Regular.ttf') format('truetype'),
+       url('/dem/wp-content/plugins/embedpress/assets/css/fonts/DMSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DMSans';
+  src: url('/dem/wp-content/plugins/embedpress/assets/css/fonts/DMSans.eot');
+  src: url('/dem/wp-content/plugins/embedpress/assets/css/fonts/DMSans.eot#iefix') format('embedded-opentype'),
+       url('/dem/wp-content/plugins/embedpress/assets/css/fonts/DMSans.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
